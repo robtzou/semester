@@ -7,7 +7,7 @@ import { Providers } from "@/components/Providers";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-    title: "Semester Sync",
+    title: "Course to Calendar",
     description: "Sync your course schedule to Google Calendar in seconds.",
     icons: {
         icon: "/favicon.svg",

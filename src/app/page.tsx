@@ -102,7 +102,7 @@ export default function Home() {
                         ✨ AI-Powered Schedule Sync
                     </div>
                     <h1 className="text-4xl md:text-6xl font-bold tracking-tighter bg-clip-text text-transparent bg-gradient-to-b from-white to-white/60 pb-2">
-                        Semester Sync
+                        Course to Calendar
                     </h1>
                     <p className="text-muted-foreground max-w-[600px] mx-auto text-lg">
                         Upload a screenshot of your course schedule and let our agent instantly sync it to your Google Calendar.
